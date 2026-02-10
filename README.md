@@ -13,3 +13,7 @@
 
 ---
 *"The best way to predict the future is to create it."*
+## My Contribution Snake 🐍
+![Snake animation](https://raw.githubusercontent.com/LuckyDuck745/LuckyDuck745/output/github-contribution-grid-snake.svg)
+## My GitHub Trophies 🏆
+[![github-readme-stats](https://github-readme-stats.vercel.app/api/github-trophy/?username=LuckyDuck745&theme=radical)](https://github.com/ryo-ma/github-readme-stats)
